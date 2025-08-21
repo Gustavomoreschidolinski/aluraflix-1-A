@@ -2,20 +2,20 @@ body {
     background-color: rgb(28, 214, 228);
     color: black;
 }
-section {
+section{
     background-color: aquamarine;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto {
+.chamada-texto{
     margin-right: 40px;
 }
-img {
+img{
     height: 200px;
 }
-chamada-video {
+chamada-video{
     display:flex;
     overflow-x: auto;
     gap: 10px;
